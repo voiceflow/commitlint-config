@@ -1,8 +1,7 @@
-# prettier-config
-Prettier config
+# commitlint-config
+Commitlint config
 
 ## Install
 ```bash
-npm i -S @voiceflow/prettier-config
+npm i -S @voiceflow/commitlint-config
 ```
-

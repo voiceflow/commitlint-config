@@ -1,6 +1,6 @@
 {
-  "name": "@voiceflow/prettier-config",
-  "description": "Prettier config",
+  "name": "@voiceflow/commitlint-config",
+  "description": "Commitlint config",
   "version": "1.0.1",
   "author": "Voiceflow",
   "bugs": {
@@ -41,8 +41,8 @@
     "url": "git+https://github.com/storyflow/commitlint-config"
   },
   "scripts": {
-    "prepare": "fixpack",
     "commit": "git-cz",
+    "prepare": "fixpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
