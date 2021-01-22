@@ -44,6 +44,17 @@
     "commitlint"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "**/*.{js,ts}": [
+      "eslint --fix",
+      "prettier-eslint --write",
+      "git add"
+    ],
+    "package.json": [
+      "fixpack",
+      "git add"
+    ]
+  },
   "main": "index.js",
   "peerDependencies": {
     "prettier": "^1.17.1"
