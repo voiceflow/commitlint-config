@@ -55,6 +55,7 @@
     "lint:report": "yarn lint --format json -o sonar/report.json",
     "prepare": "fixpack",
     "test:dependencies": "depcheck",
+    "test": "yarn test:run",
     "test:run": "echo \"Error: no test specified\" && exit 1"
   }
 }
