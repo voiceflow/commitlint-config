@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@voiceflow/eslint-config',
+  extends: ['@voiceflow/eslint-config', '@voiceflow/eslint-config/utility'],
 };
