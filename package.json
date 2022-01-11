@@ -12,22 +12,22 @@
     }
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^12.1.4"
+    "@commitlint/config-conventional": "16.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.4",
-    "@voiceflow/commitlint-config": "^1.0.2",
-    "@voiceflow/eslint-config": "^3.2.1",
-    "@voiceflow/git-branch-check": "^1.2.0",
-    "@voiceflow/prettier-config": "^1.0.5",
+    "@commitlint/cli": "16.0.2",
+    "@voiceflow/commitlint-config": "1.1.1",
+    "@voiceflow/eslint-config": "5.1.2",
+    "@voiceflow/git-branch-check": "1.2.1",
+    "@voiceflow/prettier-config": "1.0.6",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "depcheck": "^1.4.1",
-    "eslint": "^7.26.0",
+    "depcheck": "1.4.3",
+    "eslint": "8.6.0",
     "fixpack": "^4.0.0",
     "husky": "^4.3.8",
-    "lint-staged": "^11.0.0",
-    "prettier": "^2.3.0"
+    "lint-staged": "12.1.7",
+    "prettier": "2.5.1"
   },
   "files": [
     "index.js"
