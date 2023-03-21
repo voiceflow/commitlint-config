@@ -16,8 +16,8 @@
   },
   "devDependencies": {
     "@commitlint/cli": "16.0.2",
-    "@voiceflow/commitlint-config": "1.1.1",
-    "@voiceflow/eslint-config": "5.1.2",
+    "@voiceflow/commitlint-config": "2.0.1",
+    "@voiceflow/eslint-config": "7.0.0",
     "@voiceflow/git-branch-check": "1.2.1",
     "@voiceflow/prettier-config": "1.0.6",
     "commitizen": "^4.2.4",
